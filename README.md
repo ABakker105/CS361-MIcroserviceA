@@ -1,7 +1,7 @@
 # CS361---Microservice-A
 ## Workout Recommendation System Based on User’s Exercise Preferences
 ### A. How to REQUEST data from Microservice A:
-The microservice uses HTTP POST endpoints to request data from the endpoint /preferences. Microservice A listens for requests on port 3001. The screenshot below shows an example request from a user that is sending their workout preferences to Microservice A. 
+Applications must send HTTP requests to the endpoint /preferences in Microservice A. Microservice A listens for requests on port 3001. The screenshot below shows an example request from a user that is sending their workout preferences in the test file to Microservice A. 
 
 ![image](https://github.com/user-attachments/assets/599a991b-8c5c-40e9-ae19-a21e0ceab6d4)
 
